@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/DoNKoMaR/Lucian",
+    "homepage": "https://github.com/DoNKoMaR/Luciansci",
     "author": {
         "name": "DoNKoMaR"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DoNKoMaR/Lucian.git"
+        "url": "git+https://github.com/DoNKoMaR/Luciansci.git"
     },
     "bugs": {
-        "url": "https://github.com/DoNKoMaR/Lucian/issues"
+        "url": "https://github.com/DoNKoMaR/Luciansci/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

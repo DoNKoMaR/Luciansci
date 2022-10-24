@@ -61,9 +61,9 @@ pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/DoNKoMaR/Lucian.
+git clone https://github.com/DoNKoMaR/Luciansci.
 
-cd Lucian
+cd Luciansci
 ```
 
 ```bash
